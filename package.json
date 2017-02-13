@@ -1,0 +1,32 @@
+{
+  "name": "angular-quiz",
+  "version": "1.0.0",
+  "description": "An angular.js quiz",
+  "engines": {
+    "node": "6.9.4"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaptanSingh2020/angular-quiz.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "static"
+  ],
+  "author": "Kaptan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaptanSingh2020/angular-quiz/issues"
+  },
+  "homepage": "https://github.com/KaptanSingh2020/angular-quiz#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "gzippo": "^0.2.0",
+    "morgan": "^1.8.1"
+  }
+}
